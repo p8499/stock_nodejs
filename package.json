@@ -9,6 +9,12 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@juggle/resize-observer": "^3.2.0",
+    "@types/echarts": "^4.6.5",
+    "clipboard-polyfill": "^3.0.1",
+    "echarts": "^4.9.0",
+    "universal-base64": "^2.1.0",
+    "uuidv4": "^6.2.2",
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.3",
     "vue-property-decorator": "^8.4.2",
